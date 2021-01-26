@@ -1,0 +1,4 @@
+org/web/App.class
+org/web/service/LuceneSpatial.class
+org/web/controller/Rescontroller.class
+org/web/service/lucenetest.class
